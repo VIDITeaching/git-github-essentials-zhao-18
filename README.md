@@ -8,9 +8,9 @@ The goal of this course is to give you a brief introduction to GitHub. We’ll a
 
 Git is a **distributed Version Control System (VCS)**, which means it is a useful tool for easily tracking changes to your code, collaborating, and sharing. With Git you can track the changes you make to your project so you always have a record of what you’ve worked on and can easily revert back to an older version if need be. It also makes working with others easier—groups of people can work together on the same project and merge their changes into one final source!
 
-GitHub is a way to use the same power  whole community and set of tools on GitHub that can get you to the next step. This course starts with the basics of GitHub, but we'll dig into the rest later.
+GitHub is a way to use the same power  whole community and set of tools on GitHub that can get you tor.
 
-## :octocat: Understanding the GitHub flow 
+## :octocat: Uanding the GitHub flow
 
 The GitHub flow is a lightweight workflow that allows you to experiment and collaborate on your projects easily, without the risk of losing your previous work.
 
